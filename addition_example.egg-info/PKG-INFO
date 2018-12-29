@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: addition-example
+Version: 0.0.1
+Summary: Simple example of a package for adding numbers
+Home-page: https://github.com/jonathan-marsan/addition_example
+Author: Jonathan
+License: UNKNOWN
+Description: ## Addition Example
+        
+        ### Functions
+        
+        * get_sum: for two numbers
+        * get_sum_all: for any list of numbers
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
